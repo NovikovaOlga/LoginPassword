@@ -19,6 +19,7 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/LoginPassword/test1.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/LoginPassword/test2.png">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/LoginPassword/test3.png">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/LoginPassword/bitrise.png">
 <p>
 
 
